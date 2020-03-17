@@ -1,0 +1,14 @@
+.myButton{
+    margin:10px;
+}
+
+.item-contact{
+    float: left;
+    padding: 15px;
+    list-style-type: none;
+    width: 250px;
+}
+
+.item-contact img{
+    width:100%;
+}
